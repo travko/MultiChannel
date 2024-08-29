@@ -1,2 +1,3 @@
 este es un nicho el cual debo explotar
 craer part del portafolio algunas funcionalidades
+constuir prototipo 
