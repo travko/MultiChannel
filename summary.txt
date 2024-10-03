@@ -3,6 +3,8 @@ craer part del portafolio algunas funcionalidades
 constuir prototipo 
 constrio diagrma tobe, asis
 ordenar todos lor proyectos e ideas de negocio!
+se requiere controlar el timeout
+se requiere controlar si permite multi hilo las conexiones
 
 https://www.interfaceware.com/hl7-ack
 https://www.hardhats.org/projects/New/SetUpHL7.html
