@@ -5,7 +5,7 @@ constrio diagrma tobe, asis
 ordenar todos lor proyectos e ideas de negocio!
 se requiere controlar el timeout
 se requiere controlar si permite multi hilo las conexiones
-comenzar a construir la guia de implenmetacion con Roche
+comenzar a construir la guia de implenmetacion con cliente
 
 
 https://www.interfaceware.com/hl7-ack
