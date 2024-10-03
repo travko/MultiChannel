@@ -5,6 +5,8 @@ constrio diagrma tobe, asis
 ordenar todos lor proyectos e ideas de negocio!
 se requiere controlar el timeout
 se requiere controlar si permite multi hilo las conexiones
+comenzar a construir la guia de implenmetacion con Roche
+
 
 https://www.interfaceware.com/hl7-ack
 https://www.hardhats.org/projects/New/SetUpHL7.html
