@@ -1,7 +1,13 @@
 }a consdirear
 
+Buffer lleno o el servidor no está leyendo
 client.SendTimeout = 5000;  // Tiempo de espera en milisegundos (5 segundos)
 client.ReceiveTimeout = 5000;  // Tiempo de espera para leer (5 segundos)
+
+Deadlock entre cliente y servidor
+
+networkStream.ReadTimeout = 5000;  // Timeout de 5 segundos para la lectura
+networkStream.WriteTimeout = 5000;  // Timeout de 5 segundos para la escritura
 
 
 conectarse
