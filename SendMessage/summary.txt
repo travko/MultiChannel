@@ -1,1 +1,4 @@
+}a consdirear
 
+client.SendTimeout = 5000;  // Tiempo de espera en milisegundos (5 segundos)
+client.ReceiveTimeout = 5000;  // Tiempo de espera para leer (5 segundos)
