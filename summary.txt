@@ -7,6 +7,7 @@ se requiere controlar el timeout
 se requiere controlar si permite multi hilo las conexiones
 comenzar a construir la guia de implenmetacion con cliente
 
+Buenas Prácticas de Programación
 
 https://www.interfaceware.com/hl7-ack
 https://www.hardhats.org/projects/New/SetUpHL7.html
