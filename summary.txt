@@ -9,7 +9,33 @@ comenzar a construir la guia de implenmetacion con cliente
 
 Buenas Prácticas de Programación
 
+#!/bin/bash
 
+# Definir variables
+GITLAB_URL="https://gitlab.com"
+PROJECT_NAMESPACE=travko/tu_proyecto"
+BRANCH="main"
+ARCHIVO_TEXTO="ruta/al/archivo.txt"
+NUEVO_CONTENIDO="Este es el nuevo contenido del archivo de texto."
+
+# Clonar el repositorio
+git clone $GITLAB_URL/$PROJECT_NAMESPACE.git
+cd tu_proyecto
+
+# Asegurarse de estar en la rama correcta
+git checkout $BRANCH
+
+# Actualizar el archivo de texto
+echo "$NUEVO_CONTENIDO" > $ARCHIVO_TEXTO
+
+# Añadir los cambios
+git add $ARCHIVO_TEXTO
+
+# Hacer commit
+git commit -m "Actualizar archivo de texto"
+
+# Hacer push de los cambios a GitLab
+git push origin $BRANCH
 
 
 https://www.interfaceware.com/hl7-ack
