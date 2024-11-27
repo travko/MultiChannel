@@ -36,7 +36,7 @@ git commit -m "Actualizar archivo de texto"
 
 # Hacer push de los cambios a GitLab
 git push origin $BRANCH
-
+proar  hl fhir
 
 https://www.interfaceware.com/hl7-ack
 https://www.hardhats.org/projects/New/SetUpHL7.html
